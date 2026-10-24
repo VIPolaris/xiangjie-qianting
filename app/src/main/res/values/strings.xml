@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">相接浅听</string>
+    <string name="notification_channel_name">相接浅听播放</string>
+    <string name="notification_channel_description">连接已添加的蓝牙设备后自动播放</string>
+    <string name="notification_title">相接浅听正在播放</string>
+    <string name="trigger_notification_channel_name">蓝牙设备连接检测</string>
+    <string name="trigger_notification_title">已检测到播放设备</string>
+    <string name="trigger_notification_text">正在等待蓝牙媒体通道</string>
+    <string name="apple_music_control_service_name">相接浅听音乐控制</string>
+</resources>

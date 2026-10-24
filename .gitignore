@@ -1,0 +1,35 @@
+*.iml
+.gradle/
+.gradle-local/
+.idea/
+.kotlin/
+.android/
+.android-local/
+.sdk-local/
+.verify-classes/
+local.properties
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+signing/
+signing.properties
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+*.apk
+*.aab
+deliverables/
+
+# Accidental local command/output directories.
+/-c/
+/.exe/
+/echo BUILD_ENV_OK/
+/whoami/
+
+# Operating-system metadata.
+.DS_Store
+Thumbs.db
